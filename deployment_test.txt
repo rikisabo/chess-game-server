@@ -1,0 +1,6 @@
+# Deployment Test - Force Railway Redeploy
+Date: 2025-08-11
+Time: 12:09
+Status: Testing server deployment
+
+This file forces Railway to redeploy the server.
